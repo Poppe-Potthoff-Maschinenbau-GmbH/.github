@@ -1,3 +1,4 @@
+![P+P logo](https://github.com/Poppe-Potthoff-Maschinenbau-GmbH/.github/blob/main/PP_Maschinenbau_GmbH_01.jpg?raw=true)
 ![P+P logo](https://github.com/Poppe-Potthoff-Maschinenbau-GmbH/.github/blob/main/Poppe-Logo.jpg?raw=true) Maschinenbau GmbH
 
 # POPPE + POTTHOFF MASCHINENBAU
