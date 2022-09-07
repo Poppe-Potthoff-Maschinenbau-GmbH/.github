@@ -1,7 +1,7 @@
-![P+P logo](https://github.com/Poppe-Potthoff-Maschinenbau-GmbH/.github/blob/main/Poppe-Logo.jpg?raw=true)
-Maschinenbau GmbH
+![P+P logo](https://github.com/Poppe-Potthoff-Maschinenbau-GmbH/.github/blob/main/Poppe-Logo.jpg?raw=true) Maschinenbau GmbH
 
-## POPPE + POTTHOFF MASCHINENBAU, NORDHAUSEN (DEUTSCHLAND)
+# POPPE + POTTHOFF MASCHINENBAU
+## NORDHAUSEN (DEUTSCHLAND)
 Poppe + Potthoff verfügt über langjährige Erfahrung in der Prüf- und Hochdrucktechnik sowie im Sondermaschinenbau. Schwerpunkte liegen in der Prüfung von Komponenten aus Metall und Kunststoff in unterschiedlichen Druckbereichen bis zu einem Druck von 16.000 bar, Vakuumprüfanwendungen, der Autofrettage und in Automatisierungslösungen für die Automotive und Zulieferindustrie.
 
 ## KOMPETENZ ALS SERVICE
