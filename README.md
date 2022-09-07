@@ -8,10 +8,6 @@ Poppe + Potthoff verfügt über langjährige Erfahrung in der Prüf- und Hochdru
 ## KOMPETENZ ALS SERVICE
 Das Unternehmen entwickelt und fertigt technologisch komplexe Anlagen für die Forschung, Entwicklung und Produktion. Dienstleistungen wie die Autofrettage und die Durchführung von speziellen Bauteil-Prüfungen oder das Kalibrieren von Druckaufnehmern runden das Angebot ab.
 
-## Languages in use
-
-Matlab, LabVIEW
-
 ## Vertrieb
 JOHANNES MONTAG  
 Head of Engineering & Sales
